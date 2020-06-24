@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Regstration-Form-reactJs/static/css/main.9bdb5b2a.chunk.css",
+    "main.css": "/Regstration-Form-reactJs/static/css/main.48292c73.chunk.css",
     "main.js": "/Regstration-Form-reactJs/static/js/main.f680894b.chunk.js",
     "main.js.map": "/Regstration-Form-reactJs/static/js/main.f680894b.chunk.js.map",
     "runtime-main.js": "/Regstration-Form-reactJs/static/js/runtime-main.ff0e2540.js",
@@ -8,15 +8,15 @@
     "static/js/2.c4d3b3aa.chunk.js": "/Regstration-Form-reactJs/static/js/2.c4d3b3aa.chunk.js",
     "static/js/2.c4d3b3aa.chunk.js.map": "/Regstration-Form-reactJs/static/js/2.c4d3b3aa.chunk.js.map",
     "index.html": "/Regstration-Form-reactJs/index.html",
-    "precache-manifest.ddca630910c0edb9fb32e32442702113.js": "/Regstration-Form-reactJs/precache-manifest.ddca630910c0edb9fb32e32442702113.js",
+    "precache-manifest.2637a194fc21dc731d2fa5b39ea8638f.js": "/Regstration-Form-reactJs/precache-manifest.2637a194fc21dc731d2fa5b39ea8638f.js",
     "service-worker.js": "/Regstration-Form-reactJs/service-worker.js",
-    "static/css/main.9bdb5b2a.chunk.css.map": "/Regstration-Form-reactJs/static/css/main.9bdb5b2a.chunk.css.map",
+    "static/css/main.48292c73.chunk.css.map": "/Regstration-Form-reactJs/static/css/main.48292c73.chunk.css.map",
     "static/js/2.c4d3b3aa.chunk.js.LICENSE.txt": "/Regstration-Form-reactJs/static/js/2.c4d3b3aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ff0e2540.js",
     "static/js/2.c4d3b3aa.chunk.js",
-    "static/css/main.9bdb5b2a.chunk.css",
+    "static/css/main.48292c73.chunk.css",
     "static/js/main.f680894b.chunk.js"
   ]
 }
